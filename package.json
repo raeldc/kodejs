@@ -6,7 +6,6 @@
     "dependencies"   : {},
     "devDependencies": {
         "mocha" : "*",
-        "assert": "*",
         "should": "*"
     },
     "scripts" : {
