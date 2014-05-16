@@ -1,0 +1,18 @@
+{
+    "name"           : "kodejs",
+    "version"        : "0.1.0",
+    "description"    : "A Web Application Framework for Node that forces you to use Design Pattern based code architecture",
+    "main"           : "server.js",
+    "dependencies"   : {},
+    "devDependencies": {
+        "mocha" : "*",
+        "assert": "*",
+        "should": "*"
+    },
+    "scripts" : {
+        "test" : "test",
+        "start": "node server.js"
+    },
+    "author" : "Israel D. Canasa",
+    "license": "MIT"
+}
